@@ -1,0 +1,29 @@
+.button-chart{
+    width: 100% !important;
+    position: relative;
+}
+.button-chart .MuiButtonBase-root{
+    position: absolute;
+    right: 0%;
+}
+.MuiDrawer-paperAnchorDockedLeft{
+    display: none !important;
+}
+.css-aim41u{
+    margin-left: 0 !important;
+}
+#apexchartsrealtime{
+    color: #fff !important;
+}
+.css-122tack{
+    height: 14rem !important;
+    margin-top: -40px;
+    background-image: linear-gradient(to right, #A03FC0, #B758C6, #AB3EA8,#B23F9A,#B53F95, #B63F8F) !important;
+    border-radius: 0.5rem;
+}
+.change-background-page .css-122tack{
+    background-image: linear-gradient(to left, rgba(40, 167, 69, 1), rgba(40, 167, 69, 0.5)) !important;
+}
+tspan{
+    color: white !important;
+}
